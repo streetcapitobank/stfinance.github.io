@@ -1656,6 +1656,11 @@ body {
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
+@media (min-width: 992px) {
+  .cid-rwsOflO6lZ .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
+}
 .cid-rwsOflO6lZ .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2073,7 +2078,7 @@ body {
   color: #cccccc;
 }
 .cid-rx1UCeGONl {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #000000;
 }
@@ -2327,6 +2332,11 @@ body {
 .cid-rwsLONBjge .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwsLONBjge .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rwsLONBjge .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rwsLONBjge .collapsed button.navbar-toggler {
   display: block;
@@ -2757,7 +2767,7 @@ body {
   color: #cccccc;
 }
 .cid-rx1EXfgdLi {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #000000;
 }
@@ -3011,6 +3021,11 @@ body {
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rwsOflO6lZ .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rwsOflO6lZ .collapsed button.navbar-toggler {
   display: block;
@@ -3429,7 +3444,7 @@ body {
   color: #cccccc;
 }
 .cid-rx20jBxRE3 {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #000000;
 }
@@ -3683,6 +3698,11 @@ body {
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rwsOflO6lZ .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rwsOflO6lZ .collapsed button.navbar-toggler {
   display: block;
@@ -4101,7 +4121,7 @@ body {
   color: #cccccc;
 }
 .cid-rx21cBv0Tk {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #000000;
 }
