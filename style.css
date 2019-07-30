@@ -1,11 +1,9 @@
-
-
 .avatar{
-    width: 90px;
-    height: 90px;
+    width: 85px;
+    height: 85px;
     border-radius: 50%;
     position: relative;
-    top: -22px;
+    top: -30px;
     left: calc(50% - 50px);
 	font-family:Roboto;
 }
@@ -20,16 +18,17 @@
     margin: 0;
     padding-bottom: 10px;
     font-family:Roboto;
-	font-size:16px;
-	color: white;
+	font-size:15px;
+	color: #cccccc;
+    font-weight: 500;
 }
 
 h1{
     margin: 0;
     padding: 0 0 20px;
     text-align: center;
-    font-size: 22px;
-	color:white;
+    font-size: 20px;
+	color:#e9e9e9;
 	font-family:Roboto;
 }
 
@@ -37,7 +36,7 @@ h1{
 .loginbox input[type="text"], input[type="password"]
 {
     border: none;
-    border: 1px solid #fff;
+    border: 2px solid #cccccc;
 	border-radius:15px;
     background: transparent;
     outline: none;
@@ -73,7 +72,7 @@ h1{
 
 .loginbox a{
     text-decoration: none;
-    font-size: 12px;
+    font-size: 11px;
     line-height: 20px;
     color: darkgrey;
 	font-family:Roboto;
