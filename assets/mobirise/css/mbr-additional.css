@@ -49,10 +49,10 @@ body {
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
-  font-size: 15px;
+  font-size: 17px;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 24px;
+  font-size: 27.2px;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Roboto', sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 24px;
+  font-size: 27.2px;
 }
 .form-control,
 .form-control:focus {
@@ -1174,7 +1174,7 @@ pre {
     display: none;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1023px) {
   .navbar-toggleable-md .navbar-nav .dropdown-menu {
     position: static;
     float: none;
@@ -1184,7 +1184,7 @@ pre {
     padding-left: 0;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 1024px) {
   .navbar-toggleable-md {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -1656,11 +1656,6 @@ body {
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 992px) {
-  .cid-rwsOflO6lZ .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
-}
 .cid-rwsOflO6lZ .collapsed button.navbar-toggler {
   display: block;
 }
@@ -1892,7 +1887,7 @@ body {
 .cid-rxiXikFzE9 .mbr-text,
 .cid-rxiXikFzE9 .mbr-section-btn {
   text-align: center;
-  color: #a0a0a0;
+  color: #b7b5b5;
 }
 .cid-rx1UN8LgfE {
   padding-top: 0px;
@@ -1933,7 +1928,7 @@ body {
   padding-right: 1rem;
 }
 .cid-rx1UN8LgfE .panel-text {
-  color: #a0a0a0;
+  color: #ada7a7;
   text-align: left;
 }
 .cid-rx1UN8LgfE H4 {
@@ -1979,7 +1974,7 @@ body {
   padding-right: 1rem;
 }
 .cid-rx1UOl5R5S .panel-text {
-  color: #a0a0a0;
+  color: #b7b5b5;
   text-align: left;
 }
 .cid-rx1UOl5R5S H4 {
@@ -2025,7 +2020,7 @@ body {
   padding-right: 1rem;
 }
 .cid-rx1UGDQzBP .panel-text {
-  color: #a0a0a0;
+  color: #b7b5b5;
   text-align: left;
 }
 .cid-rx1UGDQzBP H4 {
@@ -2071,7 +2066,7 @@ body {
   padding-right: 1rem;
 }
 .cid-rx1UEaM1Jp .panel-text {
-  color: #a0a0a0;
+  color: #b7b5b5;
 }
 .cid-rx1UEaM1Jp H4 {
   text-align: center;
@@ -2332,11 +2327,6 @@ body {
 .cid-rwsLONBjge .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwsLONBjge .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-rwsLONBjge .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-rwsLONBjge .collapsed button.navbar-toggler {
   display: block;
@@ -3022,11 +3012,6 @@ body {
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 992px) {
-  .cid-rwsOflO6lZ .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
-}
 .cid-rwsOflO6lZ .collapsed button.navbar-toggler {
   display: block;
 }
@@ -3698,11 +3683,6 @@ body {
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-rwsOflO6lZ .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-rwsOflO6lZ .collapsed button.navbar-toggler {
   display: block;
@@ -4441,11 +4421,6 @@ body {
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 992px) {
-  .cid-rwsOflO6lZ .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
-}
 .cid-rwsOflO6lZ .collapsed button.navbar-toggler {
   display: block;
 }
@@ -4847,11 +4822,6 @@ body {
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwsOflO6lZ .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-rwsOflO6lZ .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-rwsOflO6lZ .collapsed button.navbar-toggler {
   display: block;
