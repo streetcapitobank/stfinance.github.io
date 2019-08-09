@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#c7c7c7",
         "#c0bebe",
         "#a7adad",
         "#847d69",
         "#b7b5b5",
         "#ada7a7",
-        "#3c4345",
-        "#ed2716"
+        "#3c4345"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -3256,7 +3256,7 @@
               }
             },
             ".panel-text": {
-              "color": "#b7b5b5",
+              "color": "#c7c7c7",
               "text-align": "left"
             },
             "H4": {
@@ -3320,7 +3320,7 @@
               }
             },
             ".panel-text": {
-              "color": "#b7b5b5",
+              "color": "#c7c7c7",
               "text-align": "left"
             },
             "H4": {
@@ -3384,7 +3384,7 @@
               }
             },
             ".panel-text": {
-              "color": "#b7b5b5",
+              "color": "#c7c7c7",
               "text-align": "left"
             },
             "H4": {
@@ -3448,7 +3448,7 @@
               }
             },
             ".panel-text": {
-              "color": "#b7b5b5"
+              "color": "#c7c7c7"
             },
             "H4": {
               "text-align": "center",
