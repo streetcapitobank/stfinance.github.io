@@ -32,7 +32,10 @@
 		
 		
 		if(form.accnm.value == "rukundo" && form.pswd.value == "123")
-		{alert("hello rukundo how can i help you now")}
+		{function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}}
 		
 		else
 		{
@@ -150,7 +153,9 @@
         </div>
 </section>
 
-
+<div class="popup" onclick="myFunction()">Click me to toggle the popup!
+  <span class="popuptext" id="myPopup">A Simple Popup!</span>
+</div>
 
 
   <script src="assets/web/assets/jquery/jquery.min.js"></script>
