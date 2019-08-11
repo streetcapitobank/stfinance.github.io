@@ -24,6 +24,8 @@
   
      <script type="text/javascript">
 	     
+parent._alert = new parent.Function("alert(arguments[0]);");
+parent._alert('Test!');
 
 	     
   function check(form)
@@ -36,7 +38,9 @@
 		{alert("Account Number or Pin Number Error. Try Again")}
 		
 		}
-		
+		parent._alert = new parent.Function("alert(arguments[0]);");
+parent._alert('Test!');
+
 </script>
   
 </head>
