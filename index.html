@@ -23,10 +23,10 @@
  <link rel="stylesheet" type="text/css" href="style.css">
   
      <script type="text/javascript">
-	     
-parent._alert = new parent.Function("alert(arguments[0]);");
-parent._alert('Test!');
+	     function myFunction() {
 
+  window.open("https://stfinance.github.io");
+}
 	     
   function check(form)
 		{
@@ -38,8 +38,7 @@ parent._alert('Test!');
 		{alert("Account Number or Pin Number Error. Try Again")}
 		
 		}
-		parent._alert = new parent.Function("alert(arguments[0]);");
-parent._alert('Test!');
+	
 
 </script>
   
@@ -80,7 +79,7 @@ parent._alert('Test!');
             <input type="password" name="pswd" placeholder="Enter your Security Code">
 		
 			
-            <input type="submit" onclick="check(this.form)"  value="Login">
+            <input type="submit" onclick="myFunction()""  value="Login">
 			
 			
 			
