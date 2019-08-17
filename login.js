@@ -3,7 +3,7 @@ function check(form)
 		
 		
 		
-		if(form.accnm.value == "rukundo" && form.pswd.value == "123")
+		if(form.accnm.value == "101010109598" && form.pswd.value == "02002")
 		{window.open('Rukundo.html')}
 		
 		else
@@ -11,43 +11,20 @@ function check(form)
 		
 		
 		
-		if(form.accnm.value == "wanduyi" && form.pswd.value == "123")
+		if(form.accnm.value == "101010109804" && form.pswd.value == "10018")
 		{window.open('Wanduyi.html')}
 		
 		else
 		{
 		
 		
-		
-		if(form.accnm.value == "kamoga" && form.pswd.value == "123")
-		{window.open('Kamoga.html')}
-		
-		else
-		{
-		
-		
-		if(form.accnm.value == "mulema" && form.pswd.value == "123")
-		{window.open('Mulema.html')}
-		
-		else
-		{alert("Account Number or Pin Number Error. Try Again")}
+		alert("Account Number or Pin Number Error. Try Again")
 		
 		
 		
 		}
-		
-		
-		
-		
-		
+	
 		}
-		
-		
-		
-		}
-		
-		
-		
-		
+	
 		}
 		
