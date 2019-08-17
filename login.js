@@ -17,22 +17,8 @@ function check(form)
 		else
 		{
 		
-		
-		if(form.accnm.value == "101010109199" && form.pswd.value == "9199")
-		{window.open('Wanduyi.html')}
-		
-		else
-		{
-		
-		
 		alert("Account Number or Pin Number Error. Try Again")
-		
-		
-		
-		}
-		
-		
-		
+	
 		}
 	
 		}
