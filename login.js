@@ -4,7 +4,7 @@ function check(form)
 		
 		
 		if(form.accnm.value == "101010109598" && form.pswd.value == "02002")
-		{window.open('Rukundo.html')}
+		{open('Rukundo.html')}
 		
 		else
 		{
