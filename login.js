@@ -29,7 +29,7 @@ function check(form)
 		else
 		{
 		
-		alert("Account Number or Pin Number Error. Try Again")
+		window.open('Wrong details.html')
 	
 		}
 	
